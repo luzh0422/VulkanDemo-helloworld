@@ -1,0 +1,3 @@
+/Users/luzehui/CLionProjects/Vulkan_HelloWorld/cmake-build-debug/CMakeFiles/VulkanDemo.dir
+/Users/luzehui/CLionProjects/Vulkan_HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luzehui/CLionProjects/Vulkan_HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
